@@ -3,8 +3,8 @@
 1. Create one repository on github named "collaborating" with a partner(s).
 
 2. Add:
-- a short bio of themselves,
 
+- a short bio of themselves
 
 3. On separate branches, you should both make these changes to the readme.
 
