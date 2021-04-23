@@ -4,8 +4,7 @@
 
 2. Add:
 - a short bio of themselves,
-- a recipe,
-- a definition of a word to the readme of the repo.
+
 
 3. On separate branches, you should both make these changes to the readme.
 
