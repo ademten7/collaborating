@@ -6,6 +6,7 @@
 
 - a short bio of themselves,
 - *deleted*
+- a recipe,
 
 3. On separate branches, you should both make these changes to the readme.
 
