@@ -4,7 +4,8 @@
 
 2. Add:
 
-- a short bio of themselves
+- a short bio of themselves,
+- *deleted*
 
 3. On separate branches, you should both make these changes to the readme.
 
