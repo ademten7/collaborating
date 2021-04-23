@@ -13,7 +13,7 @@
 
 
 
-4. Then, make a pull request for both of your branches.(No, nooooo this sentence is not correct)
+4. Then, make a pull request for both of your branches.(Yes yees yesssssss this sentence is not correct)
 
 
 5. Assign one another to review your work. Once you have reviewed each other's work, merge the branches to master.
