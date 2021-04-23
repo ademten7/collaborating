@@ -11,7 +11,7 @@
 
 3. On separate branches, you should both make these changes to the readme.
 
-4. Then, make a pull request for both of your (this is not a correct sentence)
+4. Then, make a pull request for both of your (this is not a correct )
 
 5. Assign one another to review your work. Once you have reviewed each other's work, merge the branches to master.
 
