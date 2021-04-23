@@ -3,10 +3,9 @@
 1. Create one repository on github named "collaborating" with a partner(s).
 
 2. Add:
+
 - a short bio of themselves,
 - *deleted*
-
-
 
 3. On separate branches, you should both make these changes to the readme.
 
