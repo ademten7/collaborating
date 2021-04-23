@@ -4,11 +4,17 @@
 
 2. Add:
 
-- a short bio of themselves
+- a short bio of themselves,
+- *deleted*
+- a definition of a word to the readme of the repo.
+
 
 3. On separate branches, you should both make these changes to the readme.
 
-4. Then, make a pull request for both of your branches.
+
+4. Then, make a pull request for both of your branches.(Yes this sentence is not correct)
+
+
 
 5. Assign one another to review your work. Once you have reviewed each other's work, merge the branches to master.
 
