@@ -5,6 +5,7 @@ added 1
 added 2 
 added remote branchLinux
 added local branchLinux
+added new line
 
 2. Add:
 
