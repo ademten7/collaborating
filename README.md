@@ -1,6 +1,10 @@
 # collaborating
 
 1. Create one repository on github named "collaborating" with a partner(s).
+added 1
+added 2 
+added remote branchLinux
+added local branchLinux
 
 2. Add:
 
