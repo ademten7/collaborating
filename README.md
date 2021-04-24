@@ -1,6 +1,6 @@
 # collaborating
 
-1. Create one repository on github named "collaborating" with a partner(s).
+1. Create one repository on github named "collaborating" with a partner(s).This part added by linux
 
 2. Add:
 
