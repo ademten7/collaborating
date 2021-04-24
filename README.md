@@ -5,7 +5,7 @@ added 1
 added 2 
 added remote branchLinux
 added local branchLinux
-added by remote AdemTEn branch
+added by remote AdemTen branch
 
 2. Add:
 
