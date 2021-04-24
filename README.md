@@ -5,7 +5,13 @@ added 1
 added 2 
 added remote branchLinux
 added local branchLinux
+<<<<<<< HEAD
 added new line
+=======
+added by local true page
+
+
+>>>>>>> a723c2b5915b6ce061a3563ea5fc87121e090606
 
 2. Add:
 
