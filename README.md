@@ -1,6 +1,7 @@
 # collaborating
 
 1. Create one repository on github named "collaborating" with a partner(s).
+added1
 
 2. Add:
 
